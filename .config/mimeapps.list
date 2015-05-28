@@ -1,0 +1,9 @@
+[Default Applications]
+application/xml=leafpad.desktop
+
+[Added Associations]
+application/xml=leafpad.desktop;
+application/x-compressed-tar=engrampa.desktop;
+application/x-desktop=leafpad.desktop;
+text/plain=leafpad.desktop;
+text/x-log=leafpad.desktop;
