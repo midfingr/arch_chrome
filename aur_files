@@ -1,2 +1,6 @@
 #!/bin/bash
 yaourt -S localepurge compton-git engrampa-thunar speedtest-cli profile-cleaner yad xfce-theme-greybird light-locker-settings ttf-ms-fonts ttf-roboto pamac-aur obkey-git ob-autostart blueman-git chromium-pepper-flash --noconfirm
+
+#some files may fail
+#download maunally from the AUR
+#future updates may be on SoureForge
