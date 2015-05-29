@@ -1,5 +1,5 @@
 #!/bin/bash
-yaourt -S localepurge compton-git engrampa-thunar speedtest-cli profile-cleaner yad xfce-theme-greybird light-locker-settings ttf-ms-fonts ttf-roboto pamac-aur obkey-git ob-autostart blueman-git chromium-pepper-flash
+yaourt -S localepurge compton-git ttf-opensans engrampa-thunar speedtest-cli profile-cleaner yad xfce-theme-greybird light-locker-settings ttf-ms-fonts ttf-roboto pamac-aur obkey-git ob-autostart blueman-git chromium-pepper-flash
 
 #some files may fail
 #download manually from the AUR
